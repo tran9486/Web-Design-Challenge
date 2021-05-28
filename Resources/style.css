@@ -1,0 +1,37 @@
+body {
+	background-color: lightgrey;
+}
+
+h1, h3, nav div a {
+	color: darkblue;
+}
+
+img.MainPage {
+	width: 20%;
+	float: left;
+}
+
+img.sidebar {
+	max-width: 45%;
+	margin: 5px;
+}
+
+div.row div.container {
+	margin: 5px;
+	padding: 30px;
+	background-color: whitesmoke;
+	border-radius: 5px;
+}
+
+.current {
+	border-color: darkblue;
+	border-style: solid;
+}
+
+.compare {
+	max-width: 100%;
+}
+
+td, th {
+	padding-right: 5px;
+}
